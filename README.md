@@ -11,20 +11,6 @@
 
 ## Швидкий запуск
 
-### 1. Активація віртуального оточення
-У командному рядку Windows (CMD):
-```cmd
-"F:\projects Courses\timer\.venv\Scripts\activate.bat"
-```
-Або в PowerShell:
-```powershell
-.\.venv\Scripts\Activate.ps1
-```
-Або запуск напряму через Python віртуального оточення:
-```cmd
-.\.venv\Scripts\python.exe main.py
-```
-
 ### 2. Встановлення залежностей (за потреби)
 ```cmd
 pip install -r requirements.txt
